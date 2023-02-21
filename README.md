@@ -2,7 +2,7 @@
 
 ## Instructions
 
-- Cloner le repo en local
-- Casser la liaison avec Github
-- Créer un repo (vide) sur son compte perso Github
-- Attacher ce nouveau repo Github à notre repo local
+- [x] Cloner le repo en local
+- [x] Casser la liaison avec Github
+- [x] Créer un repo (vide) sur son compte perso Github
+- [x] Attacher ce nouveau repo Github à notre repo local
